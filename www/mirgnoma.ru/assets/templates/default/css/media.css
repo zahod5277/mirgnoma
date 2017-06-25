@@ -1,0 +1,608 @@
+/**/
+/**/
+/**/
+@media(max-width:1024px){
+    #menu, #menu button{
+        width: 100%;
+    }
+    #menu{
+        margin-bottom: 15px;
+    }
+
+    #search-form{
+        padding: 0px;
+        width: 100%;
+        display:
+    }
+
+    #search-btn{
+        position: absolute;
+        right: 0px;
+        width: 7%;
+    }
+    #search-btn button{
+        width: 100%;
+    }
+
+}
+
+@media(max-width:470px){
+    .productRow img {
+        max-height: 65px;
+    }
+    
+    .phone{
+        font-size: 0.7rem!important;
+        margin-left: 5px;
+        padding-top: 0px!important;
+    }
+    
+    .phone span{
+        font-size: 0.6rem!important;
+    }
+    
+    .adressContacts{
+        font-size: 0.55rem!important;
+    }
+    
+}
+
+@media(min-width:470px) and (max-width:1024px){
+    
+    .productOfDayPrice{
+        position: static!important;
+        margin-bottom: 2px;
+        font-size: 1rem;
+    }
+    
+    .productImgLink{
+        width: 100%!important;
+    }
+    
+    #slider{
+        width: 63.6%;
+        margin-right: 3%;
+    }
+    
+    .phone {
+        font-size: 1.2em!important;
+        padding-top: 0px!important;
+    }
+    .phone span {
+        font-size: 0.8rem!important;
+    }
+    
+    .adressContacts{
+        padding-top: 0px!important;
+    }
+
+    .productOfDayPrice {
+        width: 100%;
+        float: left;
+        margin-left: 5px;
+    }
+    .productRow img {
+        max-height: 119px;
+    }
+}
+
+@media(max-device-width:767px){
+    .productRow {
+        width: 48%;
+        margin-right: 8px;
+        margin-bottom: 15px;
+    }
+    .productRow:nth-child(2n+0) {
+        margin-right: 0px;
+    }
+
+    .productImgLink{
+        min-height: 75px;
+    }
+
+    .listRow .productImgLink{
+        width: 40%;
+        padding-left: 0px;
+        padding-right: 0px;   
+    }
+
+    .listRow .productTitle {
+        position: absolute;
+        left: 42%;
+        margin-bottom: 15px;
+    }
+
+    .listRow .priceRow {
+        width: 50%;
+        margin-top: 30px;
+        margin-left: 0%;
+        text-align: left;
+    }
+
+    .listRow .priceRow .price {
+        font-size: 1.1rem;
+        padding-top: 0px;
+    }
+
+    .listRow .buttonRow {
+        width: 18.56%;
+        margin-top: 10px;
+    }
+
+    #search-btn{
+        width: 20%!important;
+    }
+    .infoCabenetMenuUl li{
+        width: 47%!important;
+    }
+    #headerLogin a:nth-child(1){
+        padding-right: 0px!important;
+        margin-bottom: 5px!important;
+    }
+
+    #headerLogin a{
+        display: block;
+    }
+
+    #headerLogin{
+        text-align: right;
+        padding-top: 0px!important;
+        padding-right: 15px!important;
+    }
+
+    .phone{
+        margin-left: 5%;
+    }
+}
+/**/
+/**/
+/**/
+@media(min-device-width:768px) and (max-device-width:1024px){
+    .productRow {
+        width: 32.55%;
+        margin-right: 8px;
+        margin-bottom: 15px;
+    }
+    .productRow:nth-child(3n+0) {
+        margin-right: 0px;
+    }    
+    
+    .phone{
+        margin-left: 12%;
+    }
+}
+@media(max-device-width:960px) {
+
+    #msMiniCart {
+        padding-right: 3px;
+    }
+    #headerLogin {
+        text-align: right;
+        padding-top: 10px;
+        padding-right: 30px;
+    }
+    #sliders {
+        padding: 0px;
+    }
+    #slider {
+        margin-bottom: 20px;
+    }
+    .infoCabenetMenuUl li {
+        width: 32%;
+        padding: 0px;
+        text-align: center;
+    }
+    .phone {
+        font-size: 1.5em;
+    }
+    .phone span {
+        font-size: 0.875rem;
+    }
+    .adressContacts {
+        font-size: 1.125rem;
+        padding-top: 8px;
+    }
+    #productOfDayDescr {
+        float: right;
+    }
+
+    #menu button {
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    footer .container {
+        padding: 0px 15px;
+    }
+
+    #categoryProducts{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #msProductOuter{
+        padding: 0px;
+    }
+
+    #msContentBuy{
+        padding: 0px;
+    }
+
+    #msContentProp{
+        margin-top: 23px;
+        padding-top: 23px;
+        border-style: solid;
+        border-width: 1px 0px 0px;
+        -moz-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 328 0 0 round stretch;
+        -webkit-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 328 0 0 round stretch;
+        -o-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 328 0 0 round stretch;
+        border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 328 0 0 round stretch;
+    }
+
+    .btn-buy{
+        font-size: 0.9rem;
+    }
+
+    .cartItem{
+        padding-top: 20px;
+    }
+
+    .cartItem .count{
+        padding-left: 0px!important;
+        padding-important: 0px!important;
+    }
+
+    .remove .btn-danger{
+        font-size: 0.875rem;
+        border-radius: 2px;
+        padding: 8px;
+    }
+
+    .msContentPrice{
+        font-size: 1.5rem;
+    }
+
+    .cartItem .title a{
+        font-size:1.125rem;
+        color:#340000;
+    }
+
+}
+/**/
+/**/
+/**/
+@media(min-width:960px) and (max-width:1024px) {
+
+    #headerPhone{
+        width: 100%;
+    }
+    
+    .productOfDayPrice{
+        position: static!important;
+        margin-bottom: 2px;
+        font-size: 1.6rem!important;
+    }
+    
+    .productOfDayImg{
+        width: 90%!important
+    }
+        
+    #search-btn{
+        width: 9%;
+    }
+
+    #filterBar{
+        width: 30%;
+    }
+
+    #categoryProducts{
+        width: 70%;
+    }
+
+    .productRow{
+        margin-right: 17px;
+    }
+
+    .form-group .input-sm {
+        width: 90%;
+    }
+
+    .listRow .priceRow {
+        width: 46%;
+        margin-top: 28px;
+        margin-left: 0%;
+        text-align: center;
+    }
+
+    .listRow .buttonRow{
+        width: 18.56%;
+        margin-top: 22px;
+    }
+
+    .listRow .buttonRow .btn{
+        font-size: 0.8rem;
+    }
+
+    .productImgLink{
+        min-height: 108px;
+    }
+
+    .listRow .productImgLink{
+        min-height: 0px;
+    }    
+}
+
+@media(max-device-width:1024px){
+    
+    #logo{
+        width: 29%;
+    }
+    
+    #headerPhone{
+        width: 69%;
+        margin-left: 2%;
+    }
+    .discontvalue {
+        top: 50%;
+        left: 0px;
+        border-radius: 0px 5px 5px 0px!important;
+    }
+
+    .productOfDayPrice {
+        width: 48%;
+        position: absolute;
+        right: 0px;
+        top: 73%;
+    }
+
+    #menu {
+        margin-bottom: 17px;
+        width: 100%;
+    }
+    #main-welcome{
+        width: 100%;
+    }
+    
+    .dropdown-item .dropdown-menu{
+        display: none!important;
+    }
+    
+    .listRow{
+        min-height: 124px;
+    }
+      
+    .productRow{
+        margin-right: 5px;
+    }
+    
+    .listRow .productImgLink{
+        text-align: left!important;
+    }
+    
+   .listRow .buttonRow{
+        width: 23.56%;
+        margin-top: 68px;
+        position: absolute;
+        margin-left: 39%;
+    }
+
+    .listRow .priceRow{
+        width: 33%;
+        position: absolute;
+        margin-left: 39%;
+        margin-top: 30px;
+        text-align: left;
+    }
+    
+    .listRow .productTitle{
+        left: 42%;
+    }
+    
+    .footer-link{
+        width: 100%;
+    }
+
+    .magnify{
+        display: none;
+    }
+
+    .productOfDayImg {
+    width: 75%;
+    }
+
+    #msGalleryOuter{
+        width: 47%;
+        margin-right: 3%;
+    }
+    a.dropdown-item {
+        -moz-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 round;
+        -webkit-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 round;
+        -o-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 round;
+        border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 round;
+    }
+    
+    .dropdown .fa-angle-down{
+        display: none;
+    }
+
+    .thumbnail{
+        width: 30%;
+    }
+
+    .thumbnail:nth-child(3n+0){
+        margin-right: 0px!important;
+    }
+    #search-form {
+        padding: 0px;
+    }
+    #search-btn button i {
+        padding-right: 0px;
+        color: white;
+    }
+    #search-btn button {
+        border: none;
+        width: 100%;
+    }
+    #search-btn {
+        position: absolute;
+        top: 1px;
+        right: 0px;
+        width: 10%;
+    }
+}
+
+@media(min-width:1024px) {
+    .container {
+        width: 960px;
+    }
+    #menu {
+        width: 27%;
+    }
+    #menu button {
+        width: 100%;
+    }
+    #main-welcome {
+        width: 73%;
+    }
+    #search-form {
+        width: 81%;
+    }
+    #search-btn {
+        width: 19%;
+    }
+    #search-btn button {
+        width: 100%;
+    }
+    #sliders {
+        padding-right: 0px
+    }
+    #slider {
+        padding-right: 15px;
+    }
+    #slider img {
+        height: 240px;
+    }
+    #productOfDay {
+        height: 240px;
+    }
+
+    #filterBar{
+        width: 29.2%;
+    }
+
+    #categoryProducts{
+        width: 69%;
+    }
+
+    .dropdown-menu {
+        -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.35);
+        -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.35);
+        box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.35);
+    }
+    .productOfDayPrice {
+        position: absolute;
+        top: 205px;
+        right: 20px;
+    }
+
+    a.dropdown-item {
+        -moz-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 repeat;
+        -webkit-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 repeat;
+        -o-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 repeat;
+        border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 27 repeat;
+    }
+    .opened {
+        display: block!important;
+        min-height: 190px;
+    }
+    .productRow {
+        width: 23.35%;
+        margin-right: 20px;
+        margin-bottom: 15px;
+    }
+    .productRow:nth-child(4n+0) {
+        margin-right: 0px;
+    }
+    #hits .productRow, #mse2_results .productRow{
+        width: 32.5%;
+        margin-right: 8px;
+    }
+    #hits {
+        margin-top: 22px;
+    }
+    #hits .productRow:nth-child(3n+3),#mse2_results .productRow:nth-child(3n+3){
+        margin-right: 0px;
+    }
+    .productRow .btn-success {
+        width: 95%;
+        text-align: center;
+        padding: 8px 5px;
+        margin-left: 10px;
+    }
+    .btn_more{
+        margin: inherit!important;
+    }
+
+    #msContentProp{
+        width: 37.9%;
+        padding-left: 35px;
+        right: 30%;
+    }
+
+    .thumbnail{
+        width: 31%;
+    }
+    .thumbnail:nth-child(3n+0){
+        margin-right: 0px!important;
+    }
+
+    .cartHeading{
+        text-align: center;
+    }
+
+    .cartItem{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    #msCart{
+        padding: 25px 35px;
+    }
+    #msContentBuy{
+        width: 28.67%;
+        left: 35%;
+        height: 300px;
+        padding-left: 35px;
+        border-style: solid;
+        border-width: 0px 0px 0px 1px;
+        -moz-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 0 1 repeat stretch;
+        -webkit-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 0 1 repeat stretch;
+        -o-border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 0 1 repeat stretch;
+        border-image: url(https://mirgnoma.ru/assets/templates/default/img/divider.png) 0 0 0 1 fill repeat stretch;
+    }
+
+    #deliveryPayment{
+        width: 31%;
+    }
+
+    #credits{
+        width: 31%;
+        margin-left: 23px;
+        margin-right: 23px;
+    }
+
+    #confirm{
+        width: 33%;
+    }
+
+    .right-align{
+        text-align: right;
+        display: block;
+        float: right;
+    }
+    
+    .productRow img {
+        max-height: 120px;
+    }
+
+}
